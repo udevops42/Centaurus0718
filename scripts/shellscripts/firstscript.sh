@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello World Sunil added some changes to the script project" 
+echo " hello this script is updated by jenkins " 
