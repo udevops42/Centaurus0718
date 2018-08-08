@@ -1,5 +1,5 @@
-# Centaurus Technology
-##0718
+#Centaurus Technology
+#0718
 1
 2
 3
@@ -11,3 +11,4 @@
 9
 0
 
+-This is a test directory.
