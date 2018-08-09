@@ -3,5 +3,5 @@
 echo "Hi, user!"
 centver="cat /etc/centos-release"
 
-echo "Your CentOS version is " $centver
+echo "Your CentOS version is $centver"
 
