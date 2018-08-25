@@ -1,0 +1,6 @@
+docker images - to list all images
+docker ps - to list all container runnning
+docker login - login to docker hub to push images
+docker logs - to view logs
+docker build - to build an images
+docker run - to run an image
