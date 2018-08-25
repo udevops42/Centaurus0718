@@ -4,3 +4,10 @@ docker login - login to docker hub to push images
 docker logs - to view logs
 docker build - to build an images
 docker run - to run an image
+
+for playing--
+
+https://www.liquidweb.com/kb/how-to-install-docker-on-centos-6/
+docker pull tomcat
+docker run -it d -p 8080:8080 $imageid
+
